@@ -1,0 +1,6 @@
+interface:
+  display_name: "Multibagger Verdict"
+  short_description: "Research a stock and give a 3-7 year multibagger verdict"
+  default_prompt: "Evaluate the stock I name for 3x-10x potential using the Multibagger Verdict rubric and a concise evidence-backed verdict."
+policy:
+  allow_implicit_invocation: true
