@@ -8,7 +8,8 @@ Contributions are welcome, especially improvements that make the analysis more r
 - Add sector-specific accounting checks with a clear rationale.
 - Add point-in-time test cases including unsuccessful and delisted companies.
 - Document false positives, ambiguity and missing-data handling.
-- Propose rubric changes with holdout evidence, not only famous winners.
+- Propose rubric changes with holdout evidence, not only famous winners; run the four negative cases in `references/rubric.md` and report whether any turns into a YES.
+- Help run the protocol in `references/evaluation.md`: a point-in-time document corpus for NSE formation dates is the main missing piece.
 
 ## Please avoid
 

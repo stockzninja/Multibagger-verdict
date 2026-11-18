@@ -23,12 +23,18 @@
 
 These examples are **not** a precomputed empirical sample. Do not claim universal numerical thresholds, common metric averages, 'predictive accuracy' or 'backtested' success from these cases.
 
-## India superstar lenses, not their precise proprietary screens
+## Footnote: investor-style lenses (reading prompts, not criteria)
+
+These names were removed from SKILL.md and the README in v1.1. They are listed only so readers know where some of the rubric's questions came from. No investor's actual method, thresholds or holdings-based inference is claimed, and nothing here is an endorsement by or of anyone named.
 
 - Vijay Kedia SMILE: smaller firms + management + ambition + opportunity; interviews attribute this to him, but their true purchase-threshold settings are undisclosed.
 - Ashish Kacholia: emerging smallcap business research and performance; holdings alone do not reveal original economics or execution prices.
 - Mukul Agrawal: industry thesis, inflections and price/valuation confirmation; holdings snapshots subject to quarterly disclosure constraints.
 - Sunil Singhania MEETS: management, earnings, events, timing and structural trends. Use individual interviews/firm publications to verify specific statements.
+- Chris Mayer / 100 Baggers: high return on incremental capital and the capacity to reinvest for many years, often owner-oriented managers.
+- Motilal Oswal / SQGLP: smaller starting size, quality, growth, longevity and a reasonable entry price.
+- Saurabh Mukherjea: persistent cash-generative compounders and returns on capital over time.
+- Porinju Veliyath / cyclical-value: undervalued improvement; normalized economics instead of peak P/E.
 - Record investor-style suggestions as inferred *research modes*, never 'buy signals' proven by investor performance.
 
 ## Critical validation plan before use as automated investing strategy
